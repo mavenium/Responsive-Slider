@@ -12,3 +12,15 @@ Persian Responsive Slider Base On FlexSlider jQuery Plugin
 
 ![](https://raw.githubusercontent.com/mavenium/Responsive-Slider/master/Screenshot-Settings.png)
 > Settings Page
+
+------------
+### Use
+Put the following short code where you want the slider to appear:
+```
+[responsive_slider]
+```
+
+Or put the following PHP code in the template:
+```
+<?php do_shortcode( '[responsive_slider]' ); ?>
+```
