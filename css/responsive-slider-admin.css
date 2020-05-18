@@ -1,0 +1,6 @@
+#edit-slug-box { display: none; }
+#dessky_slide_effect { min-width: 90px; }
+p.description, span.description {
+	font-style: normal;
+	color: #888;
+}

@@ -1,0 +1,9 @@
+.mce-toolbar .mce-btn i.mce-i-rs_code
+{
+	background: url(../images/slides-icon.png) no-repeat 2px 2px;
+}
+
+.mce-toolbar .mce-btn:hover i.mce-i-rs_code
+{
+	background: url(../images/slides-icon.png) no-repeat 2px -22px;
+}
